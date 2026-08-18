@@ -1,6 +1,7 @@
 # 🚀 Projeto Django - Python & PostgreSQL
 
-> Repositório criado como parte do módulo de Python Back-End da EBAC (2024-2026). Trata-se de uma aplicação web desenvolvida em **Python** utilizando o framework **Django** e integrada com um banco de dados **PostgreSQL**.
+> Repositório criado como parte do módulo de Python Back-End da EBAC (2024-2026). 
+>Trata-se de uma aplicação web desenvolvida em **Python** utilizando o framework **Django** e integrada com um banco de dados **PostgreSQL**.
 
 ---
 
