@@ -1,6 +1,7 @@
 # 🚀 Projeto Django - Python & PostgreSQL
 
-> Repositório criado como parte do módulo de Python Back-End da EBAC (2024-2026). Trata-se de uma aplicação web desenvolvida em **Python** utilizando o framework **Django** e integrada com um banco de dados **PostgreSQL**.
+> Repositório criado como parte do módulo de Python Back-End da EBAC (2024-2026). 
+>Trata-se de uma aplicação web desenvolvida em **Python** utilizando o framework **Django** e integrada com um banco de dados **PostgreSQL**.
 
 ---
 
@@ -30,7 +31,8 @@ Siga os passos abaixo para clonar e executar o projeto na sua máquina:
 
 ### 1. Clonar o repositório
 
-```bash
+```
+bash
 git clone https://github.com/RogerioFernandesSilva/mysite-com-python-e-django.git
 cd mysite-com-python-e-django
 
@@ -107,4 +109,4 @@ Agora, abra o seu navegador e acesse: `[http://127.0.0.1:8000/](http://127.0.0.1
 2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
 3. Faça o commit das alterações (`git commit -m 'Adiciona nova feature'`)
 4. Faça o push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um **Pull Request**
+5. Abra um **Pull Request**.
