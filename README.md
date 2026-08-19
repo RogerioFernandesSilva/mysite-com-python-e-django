@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 *(Caso o arquivo `requirements.txt` não exista, instale manualmente os pacotes principais: `pip install django psycopg2-binary`)*
 
-### 4. Configurar o Banco de Dados
+#### 4. Configurar o Banco de Dados
 
 Certifique-se de que o seu servidor PostgreSQL está rodando e crie um banco de dados local. Em seguida, configure as credenciais no arquivo `mysite/settings.py` na seção `DATABASES`:
 
